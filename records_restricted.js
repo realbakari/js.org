@@ -39,6 +39,9 @@ var cnames_restricted = [
     "book(s)",
     "boolean",
     "bot(s)",
+    "Bank",
+    "Banker",
+    "Banking",
     "browser(s)",
     "bug(s)",
     "build(s)",
@@ -244,4 +247,5 @@ var cnames_restricted = [
     "ww(1/2/3/42)",
     "www(1/2/3/42)",
     "xml"
+    
 ]
